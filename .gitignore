@@ -1,0 +1,5 @@
+*backup*.json
+*.csv
+.env*
+node_modules/
+__pycache__/
